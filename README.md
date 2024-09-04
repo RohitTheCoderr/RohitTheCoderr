@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Rohit kumar
 - 👀 I’m interested in web-development
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently looking Frontend web-development in react.js, Tailwind CSS
+- 👌 I have a also knowledge of HTML5, CSS3, Node.js Express, mongoDB.
 - 💞️ I’m looking to collaborate on  web-development
 - 📫 How to reach me Email:- rohitkumar9643017@gmail.com
 - 😄 Pronouns: he
