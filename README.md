@@ -1,11 +1,16 @@
-- 👋 Hi, I’m Rohit kumar
-- 👀 I’m interested in web-development
-- 🌱 I’m currently looking Frontend web-development in react.js, Tailwind CSS
-- 👌 I have a also knowledge of HTML5, CSS3, Node.js Express, mongoDB.
-- 💞️ I’m looking to collaborate on  web-development
-- 📫 How to reach me Email:- rohitkumar9643017@gmail.com
-- 🚀 my portfolio website link :- https://rohitkrportfolio.netlify.app/
-- 😄 Pronouns: he
+- 👋 Hi, I’m Rohit Kumar
+- 👀 Passionate about Web Development
+- 🌱 Currently seeking new opportunities in Frontend & Fullstack Development
+- 🤹‍♀️ Tech Stack:
+      Frontend: React.js, Next.js, TypeScript, JavaScript, Tailwind CSS, Redux Toolkit, HTML5, CSS3, Fabric.js
+      Backend: Node.js, Express.js, REST API, Supabase
+      Database: MongoDB, Supabase
+      Tools & Others: GitHub, Postman, Zustand, JWT Authentication, Payment Gateway Integration
+- 💡 Strong knowledge of building scalable web apps with clean UI/UX
+- 💞️ Open to collaborate on Web Development Projects
+- 📫 Reach me at: rohitkumar9643017@gmail.com
+- 🚀 Portfolio: rohitkrportfolio.netlify.app
+- 😄 Pronouns: He/Him
 
 <!---
 RohitTheCoderr/RohitTheCoderr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
