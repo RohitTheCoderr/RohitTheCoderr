@@ -9,7 +9,7 @@
 - 💡 Strong knowledge of building scalable web apps with clean UI/UX
 - 💞️ Open to collaborate on Web Development Projects
 - 📫 Reach me at: rohitkumar9643017@gmail.com
-- 🚀 Portfolio: rohitkrportfolio.netlify.app
+- 🚀 Portfolio: https://rohitkrportfolio.netlify.app/
 - 😄 Pronouns: He/Him
 
 <!---
