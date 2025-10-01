@@ -8,7 +8,8 @@
       Tools & Others: GitHub, Postman, Zustand, JWT Authentication, Payment Gateway Integration
 - 💡 Strong knowledge of building scalable web apps with clean UI/UX
 - 💞️ Open to collaborate on Web Development Projects
-- 📫 Reach me at: rohitkumar9643017@gmail.com
+- 📫 Reach me at:  Emain:- rohitkumar9643017@gmail.com
+                    Mobile: +91-9654853181
 - 🚀 Portfolio: https://rohitkrportfolio.netlify.app/
 - 😄 Pronouns: He/Him
 
